@@ -1,0 +1,6 @@
+{
+  "topics": [
+    { "id": "hayvonlar", "name": "Hayvonlar", "file": "topics/hayvonlar.csv", "count": 6 },
+    { "id": "kasblar", "name": "Kasblar", "file": "topics/kasblar.csv", "count": 6 }
+  ]
+}
