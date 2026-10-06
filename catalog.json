@@ -1,7 +1,22 @@
 {
-  "topics": [
-    { "id": "hayvonlar", "name": "Hayvonlar", "file": "topics/hayvonlar.csv", "count": 6 },
-    { "id": "kasblar", "name": "Kasblar", "file": "topics/kasblar.csv", "count": 6 },
-    { "id": "kundalik hayot", "name": "Kundalik Hayot", "file": "topics/01_kundalik_hayot.csv", "count": 6 }
-  ]
+    "topics":  [
+                   {
+                       "name":  "Hayvonlar",
+                       "id":  "hayvonlar",
+                       "count":  6,
+                       "file":  "topics/hayvonlar.csv"
+                   },
+                   {
+                       "name":  "Kasblar",
+                       "id":  "kasblar",
+                       "count":  6,
+                       "file":  "topics/kasblar.csv"
+                   },
+                   {
+                       "name":  "Kundalik Hayot",
+                       "id":  "kundalik hayot",
+                       "count":  20,
+                       "file":  "topics/01_kundalik_hayot.csv"
+                   }
+               ]
 }
