@@ -17,6 +17,60 @@
                        "id":  "kundalik hayot",
                        "count":  20,
                        "file":  "topics/01_kundalik_hayot.csv"
+                   },
+                   {
+                       "id":  "suhbat-va-savol-javob",
+                       "name":  "Suhbat va savol-javob",
+                       "file":  "topics/02_suhbat_va_savol-javob.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "ish-va-ofis",
+                       "name":  "Ish va ofis",
+                       "file":  "topics/03_ish_va_ofis.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "fe-llar-va-juftliklar",
+                       "name":  "Fe\u0027llar va juftliklar",
+                       "file":  "topics/04_fellar_va_juftliklar.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "sifatlar-va-holat",
+                       "name":  "Sifatlar va holat",
+                       "file":  "topics/05_sifatlar_va_holat.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "vaqt-va-sonlar",
+                       "name":  "Vaqt va sonlar",
+                       "file":  "topics/06_vaqt_va_sonlar.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "joy-va-harakat",
+                       "name":  "Joy va harakat",
+                       "file":  "topics/07_joy_va_harakat.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "kino-va-ogzaki-nutq",
+                       "name":  "Kino va og\u0027zaki nutq",
+                       "file":  "topics/08_kino_va_ogzaki_nutq.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "boglovchilar-va-savol-sozlari",
+                       "name":  "Bog\u0027lovchilar va savol so\u0027zlari",
+                       "file":  "topics/09_boglovchilar_va_savol_sozlari.csv",
+                       "count":  20
+                   },
+                   {
+                       "id":  "tayyor-kundalik-iboralari",
+                       "name":  "Tayyor kundalik iboralar",
+                       "file":  "topics/10_tayyor_kundalik_iboralari.csv",
+                       "count":  20
                    }
                ]
 }
